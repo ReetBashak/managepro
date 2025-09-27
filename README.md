@@ -25,24 +25,6 @@ This is a robust, client-side **Employee and Task Management System** built with
 Follow these simple steps to get a copy of this project running on your local machine.
 
 
-#### **Installation**
+## Live Demo
 
-1.  Clone the repository:
-    ```bash
-    git clone [YOUR_REPOSITORY_URL_HERE]
-    ```
-2.  Navigate to the project directory:
-    ```bash
-    cd [YOUR_PROJECT_FOLDER_NAME]
-    ```
-3.  Install the required dependencies:
-    ```bash
-    npm install
-    ```
-
-#### **Running the Application**
-
-To run the application in development mode, use the following command:
-
-```bash
-npm run dev#
+Check out the live version of this project here: [Netlify Link](https://task-manager-rits.netlify.app/)

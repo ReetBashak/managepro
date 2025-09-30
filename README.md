@@ -30,4 +30,4 @@ Follow these simple steps to get a copy of this project running on your local ma
 
 ## Live Demo
 
-Check out the live version of this project here: [Netlify Link](https://task-manager-rits.netlify.app/)
+Check out the live version of this project here: [Vercel Link](https://managepro-sigma.vercel.app/)

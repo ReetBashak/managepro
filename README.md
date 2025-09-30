@@ -19,6 +19,9 @@ This is a robust, client-side **Employee and Task Management System** built with
 * **Data Storage:** Local Storage 
 
 ---
+### As Admin =>  **Email id- admin@example.com, Password-123**
+
+### As Employee =>  **Email id- reet@example.com, Password-123**
 
 ### **Getting Started**
 

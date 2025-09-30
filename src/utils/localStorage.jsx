@@ -6,7 +6,7 @@ const employees = [
         "password": "123",
         "taskCounts": {
             "active": 2,
-            "newTask": 1,
+            "newTask": 0,
             "completed": 1,
             "failed": 0
         },
@@ -84,7 +84,7 @@ const employees = [
         "password": "123",
         "taskCounts": {
             "active": 2,
-            "newTask": 1,
+            "newTask": 0,
             "completed": 1,
             "failed": 0
         },
@@ -128,7 +128,7 @@ const employees = [
         "password": "123",
         "taskCounts": {
             "active": 2,
-            "newTask": 1,
+            "newTask": 0,
             "completed": 0,
             "failed": 0
         },
